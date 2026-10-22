@@ -1,5 +1,7 @@
 # 大文件不入库: Middlebury 数据 (~35MB) 通过 scripts/download_middlebury.py 下载
 data/
+# 模型权重不入库 (~99MB), 下载方式见 README
+models/
 # 缓存
 __pycache__/
 *.pyc
