@@ -1,0 +1,11 @@
+# 大文件不入库: Middlebury 数据 (~35MB) 通过 scripts/download_middlebury.py 下载
+data/
+# 缓存
+__pycache__/
+*.pyc
+# 输出目录只保留 sample 示例图
+outputs/*
+!outputs/sample/
+# 系统/编辑器杂项
+.ipynb_checkpoints/
+*.egg-info/

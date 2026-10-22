@@ -1,0 +1,6 @@
+{
+    "python.defaultInterpreterPath": "D:\\python3.11\\python.exe",
+    "python.terminal.activateEnvironment": false,
+    "files.encoding": "utf8",
+    "editor.rulers": [100]
+}
